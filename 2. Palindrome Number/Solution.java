@@ -1,3 +1,8 @@
+/*
+ * Input: x = 121 ? Output: true, else Output: false
+ * Explanation: 121 reads as 121 from left to right and from right to left.
+ * https://leetcode.com/problems/palindrome-number/
+ */
 class Solution {
     public boolean isPalindrome(int x) {
         boolean answer = true;
